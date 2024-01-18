@@ -1,4 +1,4 @@
-[![MasterHead](https://www.gifcen.com/wp-content/uploads/2022/09/vegeta-gif-5.gif)
+[![MasterHead]([https://www.gifcen.com/wp-content/uploads/2022/09/vegeta-gif-5.gif](https://raw.githubusercontent.com/gist/Prince-Shivaram/3ace2c813ca49546f3f5f20cd03a2d3e/raw/6058e76860d16ee29df949da3166b3653959318f/hello.gif))
 <h1 align="center">Hi 👋, I'm Samar Arora</h1>
 <h3 align="center">Hello, world! I'm Samar, an Indian web sorcerer, conjuring seamless spells of code for a global audience</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">

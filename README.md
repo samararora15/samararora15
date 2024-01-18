@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif)
+[![MasterHead](https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif)
 <h1 align="center">Hi 👋, I'm Samar Arora</h1>
 <h3 align="center">Hello, world! I'm Samar, an Indian web sorcerer, conjuring seamless spells of code for a global audience</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">

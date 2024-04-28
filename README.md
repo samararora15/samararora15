@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **samararora1020@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1wdbY-IYqXZw-RRslys_cDvN1A0toBvOi/view?usp=sharing](https://drive.google.com/file/d/1wdbY-IYqXZw-RRslys_cDvN1A0toBvOi/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/19tOG21-J_XzYoK6bRfdG-iif5gwkOOk6/view?usp=sharing]
 
 - ⚡ Fun fact **I like my coffee like my code: strong, black, and without errors**
 

@@ -8,7 +8,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750337-1a2e8f6b-c1cb-4e58-9a2d-99f1ef6d4d52.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samararora15&label=Profile%20views&color=0e75b6&style=flat" alt="samararora15" /> </p>
+<p align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=samararora15.samararora15" alt="Profile Views" />
+</p>
 
 - 💻 I’m a **Full-Stack Developer** with 2+ years of professional experience
 
@@ -20,7 +22,7 @@
 
 - 📫 How to reach me **samararora1020@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/19tOG21-J_XzYoK6bRfdG-iif5gwkOOk6/view?usp=sharing]
+- 📄 Know about my experiences [**View Resume**]([https://drive.google.com/file/d/19tOG21-J_XzYoK6bRfdG-iif5gwkOOk6/view?usp=sharing](https://drive.google.com/file/d/1s4Ddjg7gEBhh1G2nGtveFUOy2rh8JWvl/view?usp=sharing))
 
 - ⚡ Fun fact **I like my coffee like my code: strong, black, and without errors**
 

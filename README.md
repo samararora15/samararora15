@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **samararora1020@gmail.com**
 
-- 📄 Know about my experiences [**View Resume**]([https://drive.google.com/file/d/19tOG21-J_XzYoK6bRfdG-iif5gwkOOk6/view?usp=sharing](https://drive.google.com/file/d/1s4Ddjg7gEBhh1G2nGtveFUOy2rh8JWvl/view?usp=sharing))
+- 📄 Know about my experiences [**View Resume**](https://drive.google.com/file/d/1s4Ddjg7gEBhh1G2nGtveFUOy2rh8JWvl/view?usp=sharing)
 
 - ⚡ Fun fact **I like my coffee like my code: strong, black, and without errors**
 
